@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "matchManagers": ["*"],
+    "addLabels": ["glob-manager"]
+  }]
+}
